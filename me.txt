@@ -1,0 +1,9 @@
+dark/light
+https://www.youtube.com/watch?v=q66DbMVx6O8
+#################
+This repository uses nuxtjs and dark/light mode
+tailwindcss
+responsive 
+
+dev: npm run dev
+build: npm run build
